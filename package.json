@@ -1,6 +1,6 @@
 {
   "name": "smart-table-perf",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "smart-table extension which monitors execution of processing functions",
   "main": "./dist/smart-table-perf.js",
   "jsnext:main": "./index.js",
