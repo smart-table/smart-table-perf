@@ -1,0 +1,29 @@
+{
+  "name": "smart-table-perf",
+  "version": "0.0.0",
+  "description": "smart-table extension which monitors execution of processing functions",
+  "main": "./dist/smart-table-perf.js",
+  "jsnext:main": "./index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-table/smart-table-perf.git"
+  },
+  "keywords": [
+    "smart-table",
+    "perf"
+  ],
+  "author": "Laurent Renard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smart-table/smart-table-perf/issues"
+  },
+  "homepage": "https://github.com/smart-table/smart-table-perf#readme",
+  "devDependencies": {
+    "rollup": "^0.41.4",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "smart-table-core": "^1.3.1"
+  }
+}
