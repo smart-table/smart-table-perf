@@ -1,5 +1,7 @@
 # smart-table-perf
-smart-table extension to monitor performance (execution time of processing functions)
+[smart table](https://smart-table.github.io/www/dist/) extension to monitor performance (execution time of processing functions)
+
+see [https://smart-table.github.io/smart-table-perf/example/](demo)
 
 ## Installation
 
