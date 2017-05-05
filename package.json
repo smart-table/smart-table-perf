@@ -5,7 +5,8 @@
   "main": "./dist/smart-table-perf.js",
   "jsnext:main": "./index.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "build:example": "rollup -c ./example/rollup.config.js"
   },
   "repository": {
     "type": "git",
