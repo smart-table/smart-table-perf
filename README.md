@@ -3,13 +3,17 @@
 
 see [https://smart-table.github.io/smart-table-perf/example/](demo)
 
+![./sc.png]
+
 ## Installation
 
 ### npm 
 
 ``npm install --save smart-table-perf``
 
-### yarn ``yarn add smart-table-perf``
+### yarn 
+
+``yarn add smart-table-perf``
 
 ## Usage
 
