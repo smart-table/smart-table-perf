@@ -3,7 +3,7 @@
 
 see [https://smart-table.github.io/smart-table-perf/example/](demo)
 
-![./sc.png]
+![screenshot of smart-table-perf](./sc.png)
 
 ## Installation
 
